@@ -1,4 +1,5 @@
-#Vrinda-Store-Data-Analysis(Ineractive dash boards crestiion usinRS excel
-##project objective
-The vrinda store wants to create an anual sales report for 2025 .so that ,the owner of the  vrinda store can understand their customers and grow sales in 2026 
+#Vrinda-Store-Data Analysis(Interactive Dashboard creation using RS excel)
+##Project Obective
+The Vrinda store wants to create an anual sales report for 2024.so that,the owner of the vrinda store can understand their customers grow more sales in 2025 and 2026.
+ 
 
